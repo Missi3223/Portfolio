@@ -20,8 +20,8 @@ You can check other smaller contributions in my Github profile: [https://github.
 ### Talks on Meetups and Conferences
 
 Ordered cronologically, desc (newer first)
-- [Open Sourcing and the road ahead](https://docs.google.com/presentation/d/11xNQroYsmKTpLfzQewJWL4NCm1VEETIN9YLFDzgwBkM/edit?usp=sharing)
-- [Functional Reactive Programming in JS](https://goo.gl/6nujMv), [AlicanteFrontend](https://www.meetup.com/Alicante-Frontend/events/236821806/),
+- [Open Sourcing and the road ahead](https://docs.google.com/presentation/d/11xNQroYsmKTpLfzQewJWL4NCm1VEETIN9YLFDzgwBkM/edit?usp=sharing), Alicante
+- [Functional Reactive Programming in JS](https://goo.gl/6nujMv), [AlicanteFrontend](https://www.meetup.com/Alicante-Frontend/events/236821806/)
 - [State of Frontend](https://goo.gl/6nujMv), [AlicanteFrontend](https://www.meetup.com/Alicante-Frontend/events/236112157/),
 - [Redux, the right way](https://goo.gl/oBQq5v), Alicante (Internal meetup at Coosto)
 - [Angular 2 and Redux workshop](https://goo.gl/chyFAh), [DevMeetings Madrid](https://www.meetup.com/DevMeetings-Madrid/events/235570340/)
