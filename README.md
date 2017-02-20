@@ -20,7 +20,7 @@ You can check other smaller contributions in my Github profile: [https://github.
 ### Talks on Meetups and Conferences
 
 Ordered cronologically, desc (newer first)
-
+- [Open Sourcing and the road ahead](https://docs.google.com/presentation/d/11xNQroYsmKTpLfzQewJWL4NCm1VEETIN9YLFDzgwBkM/edit?usp=sharing)
 - [Functional Reactive Programming in JS](https://goo.gl/6nujMv), [AlicanteFrontend](https://www.meetup.com/Alicante-Frontend/events/236821806/),
 - [State of Frontend](https://goo.gl/6nujMv), [AlicanteFrontend](https://www.meetup.com/Alicante-Frontend/events/236112157/),
 - [Redux, the right way](https://goo.gl/oBQq5v), Alicante (Internal meetup at Coosto)
@@ -30,8 +30,6 @@ Ordered cronologically, desc (newer first)
 - [Angular by practise: building DBCityFinder](https://goo.gl/m2ts24), [Alicante Tech](https://www.meetup.com/AlicanteTech/events/225370473/), [Tutorial](https://github.com/alexjoverm/MeetUp_DBCityFinder)
 
 ### Side projects
-
-
 
 - [TripMinder](https://github.com/alexjoverm/TripMinder): Award winning multiplatform app, made with **Ionic framework**. Got best Final Degree Project award by University of Alicante.
 - [APItems](https://github.com/alexjoverm/APitems): Statistics project for the 2nd LOL challenge, consisting on a WebApp, Crawler, a Parser. Made with **Node, Angular, SASS, Bootstrap**.
