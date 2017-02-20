@@ -4,6 +4,7 @@ Here are my portfolio related resources
 ### Open source projects
 
 - [ShortcutJS](https://github.com/coosto/ShortcutJS/): Keyboard manager for javascript and typescript, made for humans :sunglasses:
+- [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter): Starter kit with zero-config for building a library in typescript, featuring webpack, Jest, TSLint, Semantic Release, and more!
 
 ### Contributions
 
