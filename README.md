@@ -1,33 +1,10 @@
 # Portfolio
-Here are my portfolio related resources
+Here are my open source complementary portfolio
 
 ### Open source projects
 
 - [ShortcutJS](https://github.com/coosto/ShortcutJS/): Keyboard manager for javascript and typescript, made for humans :sunglasses:
 - [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter): Starter kit with zero-config for building a library in typescript, featuring webpack, Jest, TSLint, Semantic Release, and more!
-
-### Contributions
-
-- [angular/universal-starter](https://github.com/angular/universal-starter): Universal (isomorphic) javascript support for Angular2+
-- [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS): A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts
-- [AlicanteFrontend/awesome-frontend](https://github.com/AlicanteFrontend/awesome-frontend): Curated list of awesome frontend resources :star::sunglasses:
-- [AlicanteFrontend/talks](https://github.com/AlicanteFrontend/talks): Materials for Alicante Frontend meetups [https://www.meetup.com/Alicante-Frontend](https://www.meetup.com/Alicante-Frontend)
-- [@ngrx/store logger](https://github.com/btroncone/ngrx-store-logger): Advanced logging middleware for @ngrx/store applications
-
-You can check other smaller contributions in my Github profile: [https://github.com/alexjoverm](https://github.com/alexjoverm)
-
-
-### Talks on Meetups and Conferences
-
-Ordered cronologically, desc (newer first)
-- [Open Sourcing and the road ahead](https://docs.google.com/presentation/d/11xNQroYsmKTpLfzQewJWL4NCm1VEETIN9YLFDzgwBkM/edit?usp=sharing), Alicante
-- [Functional Reactive Programming in JS](https://goo.gl/6nujMv), [AlicanteFrontend](https://www.meetup.com/Alicante-Frontend/events/236821806/)
-- [State of Frontend](https://goo.gl/6nujMv), [AlicanteFrontend](https://www.meetup.com/Alicante-Frontend/events/236112157/),
-- [Redux, the right way](https://goo.gl/oBQq5v), Alicante (Internal meetup at Coosto)
-- [Angular 2 and Redux workshop](https://goo.gl/chyFAh), [DevMeetings Madrid](https://www.meetup.com/DevMeetings-Madrid/events/235570340/)
-- [Angular 2 and Redux workshop](https://goo.gl/chyFAh), [DevMeetings Valencia](https://www.meetup.com/DevMeetings-Valencia/events/234262507/)
-- [RxJS 5 workshop](https://goo.gl/X8BSL5), Eindhoven, The Netherlands (Internal meetup at Coosto)
-- [Angular by practise: building DBCityFinder](https://goo.gl/m2ts24), [Alicante Tech](https://www.meetup.com/AlicanteTech/events/225370473/), [Tutorial](https://github.com/alexjoverm/MeetUp_DBCityFinder)
 
 ### Side projects
 
