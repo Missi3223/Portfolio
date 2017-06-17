@@ -1,11 +1,6 @@
 # Portfolio
 Here are my open source complementary portfolio
 
-### Open source projects
-
-- [ShortcutJS](https://github.com/coosto/ShortcutJS/): Keyboard manager for javascript and typescript, made for humans :sunglasses:
-- [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter): Starter kit with zero-config for building a library in typescript, featuring webpack, Jest, TSLint, Semantic Release, and more!
-
 ### Side projects
 
 - [TripMinder](https://github.com/alexjoverm/TripMinder): Award winning multiplatform app, made with **Ionic framework**. Got best Final Degree Project award by University of Alicante.
